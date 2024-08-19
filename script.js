@@ -44,7 +44,6 @@ function section2Animation() {
       start: 'top -100%',
       end: 'top -200%',
       scrub: 2,
-      markers: true
     }
   })
   
